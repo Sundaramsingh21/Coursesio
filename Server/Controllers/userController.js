@@ -1,7 +1,7 @@
 import Course from "../Models/Course.js";
 import { CourseProgress } from "../Models/CourseProgress.js";
 import User from "../Models/User.js";
-import { Purchase } from "../Models/purchase.js";
+import { Purchase } from "../Models/Purchase.js";
 import Stripe from 'stripe'
 
 //Get UserData
